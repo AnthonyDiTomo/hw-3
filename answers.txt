@@ -1,0 +1,5 @@
+A loop within a loop.
+`while` loops
+`for` loop
+Yes, the article shows this with the name `Sammy`
+Yes, because you can use a `for` loop to define the variables set as a condition in a 'while' loop.
